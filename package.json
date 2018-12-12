@@ -1,0 +1,22 @@
+{
+  "name": "act_track_server",
+  "version": "1.0.0",
+  "description": "Server for act_track app",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "https-proxy-agent": "^2.2.1",
+    "morgan": "^1.9.1",
+    "pg": "^7.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K.Vasileiadis",
+  "license": "ISC"
+}
